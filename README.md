@@ -4,6 +4,7 @@
 
 # Sobre o projeto
 
+
 Fui contatado pelo produtor de conteúdo de um canal do YouTube [Hermectclaim](https://www.youtube.com/channel/UCicn6ahLjq7aFRXLC6R-WTg), que solicitou o desenvolvimento de um programa que solucionasse alguns problemas que viesse ao encontro de suas necessidades.
 
 O programa teria como objetivo principal ajudar no controle dos investimentos em criptomoedas que o mesmo realizava; O programa teria que disponibilizar uma área para controle das plataformas (vários sites) que estavam sendo investidos: qual o valor do lucro que obteve com a plataforma; e qual foi o último dia que fez a colheita dos ativos. Essa era ideia inicial. 
